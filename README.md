@@ -2,7 +2,7 @@
 
 block09
 
-This is a mock personal website for the fictional client, Calliope, for a FullStack Academy project.
+This is a mock personal website about myself for the fictional client, Calliope, for a FullStack Academy project.
 
 - Site requires a Home page, About page, and Portfolio page in addition to a CSS stylesheet and JavaScript file.
 
