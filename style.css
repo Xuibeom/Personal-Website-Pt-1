@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+  background-color: maroon;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding: 85px 24px 96px;
+  width: 75%;
+  height: 100%;
+  text-align: center;
+  background-color: gray;
+}
+
+/* These classes are for the header */
+header {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  background-color: lightgray;
+  padding: 20px 10px;
+  color: black;
+  outline-width: 3px;
+  outline-style: solid;
+  outline-color: black;
+}
+
+.name {
+  font-style: italic;
+  text-decoration: underline;
+}
+
+.header_links {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.active {
+  background-color: white;
+  color: black;
+}
+
+.profilepic {
+  width: 25%;
+}
+
+.githublink {
+  width: 25%;
+}
